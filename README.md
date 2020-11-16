@@ -18,4 +18,4 @@ Click Add to Database to store the data.
 
 Click Export Database to store the information in an output.csv file.
 
-![Output](images/output.png?raw=true)
+![Output](images/export.png?raw=true)
